@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF Uygur Theme", "WPF Uygur Theme\WPF Uygur Theme.csproj", "{827FE09C-8960-4AF4-A3DC-B58C86C7243D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{827FE09C-8960-4AF4-A3DC-B58C86C7243D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827FE09C-8960-4AF4-A3DC-B58C86C7243D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827FE09C-8960-4AF4-A3DC-B58C86C7243D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827FE09C-8960-4AF4-A3DC-B58C86C7243D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AAFA8DF-FC98-4D1E-BC2C-E07B7416483B}
+	EndGlobalSection
+EndGlobal
