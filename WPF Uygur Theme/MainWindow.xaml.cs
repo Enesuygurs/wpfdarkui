@@ -23,11 +23,11 @@ namespace WPF_Uygur_Theme
             DarkMessageBox darkMessageBoxes;
             if ((username.Text == Properties.Settings.Default.username && passwordBox.Password == Properties.Settings.Default.password) || (username.Text == Properties.Settings.Default.username && passwordTextBox.Text == Properties.Settings.Default.password))
             {
-                darkMessageBoxes = new DarkMessageBox("Logged in successfully", 1);
+                darkMessageBoxes = new DarkMessageBox("Login successful", 1);
             }
             else
             {
-                darkMessageBoxes = new DarkMessageBox("Username or Password is incorrect", 3);
+                darkMessageBoxes = new DarkMessageBox("Invalid username or password", 3);
             }
             darkMessageBoxes.Show();
         }
