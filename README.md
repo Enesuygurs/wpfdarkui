@@ -1,4 +1,4 @@
-# WPF Responsive Dark Theme UI [WPF]
+# WPF Responsive Dark Theme UI
 
 ## Custom Controls
 - Dark Button
